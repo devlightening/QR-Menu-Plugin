@@ -2,5 +2,5 @@
 
 Aşağıda projenin ekran görüntüsünü görebilirsiniz:
 
-![Ekran Görüntüsü](photos/plugin1.png)
+![Ekran Görüntüsü](Photos/plugin1.png)
 
