@@ -90,8 +90,5 @@ Menüdeki ürünler yine kategori yapısına göre organize edilmiştir:
 
 ## 📬 İletişim
 
-Herhangi bir geri bildirim veya destek talebi için benimle iletişime geçebilirsiniz.
-
----
 
 > Bu proje, restoranlar için dijital dönüşüm sürecinde QR destekli modern menü çözümleri sunmak amacıyla geliştirilmiştir.
