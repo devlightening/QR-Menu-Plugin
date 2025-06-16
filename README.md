@@ -1,96 +1,98 @@
-# 📱 QR-Menu Plugin
+# 📱 QR-Menu WordPress Eklentisi
 
-**QR-Menu**, WordPress üzerinde geliştirilmiş, restoranlar için kullanıcı dostu ve dinamik bir menü yönetimi sağlayan bir eklentidir. Bu eklenti sayesinde yöneticiler; ürün bilgilerini tanımlayabilir, kategorilere ayırabilir ve QR kod üzerinden erişilebilen dijital menüler oluşturabilirler.
-
-## 🔧 Kullanılan Teknolojiler
-
-- **PHP** – WordPress plugin geliştirme
-- **HTML** – Yapı iskeleti
-- **CSS** – Arayüz tasarımı
-- **JavaScript** *(isteğe bağlı)* – Etkileşimli işlemler
-- **WordPress Plugin API**
+**QR-Menu**, WordPress tabanlı restoranlar için geliştirilmiş, kullanıcı dostu ve dinamik bir dijital menü eklentisidir. Yöneticiler bu eklenti sayesinde ürünleri tanımlayabilir, kategorilere ayırabilir ve her menüye özel QR kod oluşturarak müşterilere hızlı erişim sağlayabilir.
 
 ---
 
-## 🚀 Özellikler
+## 🔧 Kullanılan Teknolojiler
+
+- **PHP** – WordPress eklenti geliştirme
+- **HTML** – Yapısal içerik oluşturma
+- **CSS** – Arayüz tasarımı
+- **JavaScript** *(isteğe bağlı)* – Etkileşimli özellikler
+- **WordPress Plugin API** – Eklenti altyapısı
+
+---
+
+## 🚀 Temel Özellikler
 
 ### ✅ Ürün Tanımlama
 
-Yönetici paneli üzerinden:
+Yönetici panelinden kolayca:
 
-- Ürün adı belirleme
-- Ürün açıklaması yazma
-- Ürün fiyatı tanımlama
-- Kategori seçimi
-- Ürüne temsili fotoğraf ekleme
+- Ürün adı girilebilir  
+- Açıklama yazılabilir  
+- Fiyat tanımlanabilir  
+- Kategori seçilebilir  
+- Ürüne görsel eklenebilir
 
-![Admin Panel – Ürün Tanımlama](Photos/plugin1.png)
+![Admin Panel – Ürün Tanımlama](https://raw.githubusercontent.com/kullaniciadi/projeadi/main/Photos/plugin1.png)
 
 ---
 
 ### 📋 Ürün Listeleme
 
-Tüm ürünler tek bir ekranda listelenebilir ve yönetilebilir.
+Tüm ürünler tek bir ekran üzerinde listelenir. Ürünler burada düzenlenebilir veya silinebilir.
 
-![Ürün Listesi](Photos/plugin2.png)
+![Ürün Listesi](https://raw.githubusercontent.com/kullaniciadi/projeadi/main/Photos/plugin2.png)
 
 ---
 
 ### 🗂️ Kategoriye Göre Filtreleme
 
-Kategori barı sayesinde ürünler filtrelenebilir ve daha düzenli bir görünüm sağlanır.
+Kategori barı ile ürünler filtrelenebilir, kullanıcıya daha düzenli bir görünüm sunulur.
 
-![Kategori Barı](Photos/plugin3.png)
+![Kategori Barı](https://raw.githubusercontent.com/kullaniciadi/projeadi/main/Photos/plugin3.png)
 
 ---
 
 ### ➕ Kategori Ekleme
 
-Yeni kategoriler kolayca oluşturulabilir ve ürünlere atanabilir.
+Yeni kategoriler kolaylıkla tanımlanabilir ve ürünlere atanabilir.
 
-![Kategori Ekleme](Photos/plugin4.png)
+![Kategori Ekleme](https://raw.githubusercontent.com/kullaniciadi/projeadi/main/Photos/plugin4.png)
 
 ---
 
-### 🔄 QR Kod Üretici
+### 🔄 QR Kod Oluşturma
 
-Her menüye özel QR kodlar oluşturularak, müşterilerin mobil cihazlarla erişimi sağlanır.
+Her oluşturulan menü için otomatik QR kod üretimi yapılır. Bu sayede müşteriler, cep telefonlarıyla menüye hızlıca erişebilir.
 
-![QR Kod Generator](Photos/plugin5.png)
+![QR Kod Generator](https://raw.githubusercontent.com/kullaniciadi/projeadi/main/Photos/plugin5.png)
 
 ---
 
 ### 🍽️ Statik Menü Örneği
 
-Demo olarak oluşturulmuş statik bir restoran menüsü görünümü:
+Demo olarak hazırlanmış örnek bir restoran menüsü görünümü:
 
-![Statik Menü](Photos/Menu1.png)
+![Statik Menü](https://raw.githubusercontent.com/kullaniciadi/projeadi/main/Photos/Menu1.png)
 
-Menüdeki ürünler yine kategori yapısına göre organize edilmiştir:
+Kategorili menü yapısı:
 
-![Statik Menü](Photos/Menu2.png)
-
-![Kategorili Menü](Photos/plugin2.png)
+![Kategorili Menü](https://raw.githubusercontent.com/kullaniciadi/projeadi/main/Photos/Menu2.png)
 
 ---
 
-## 📦 Kurulum
+## 📦 Kurulum Adımları
 
-1. Proje dosyalarını `wp-content/plugins/` dizinine yükleyin.
-2. WordPress admin panelinden eklentiyi aktif hale getirin.
-3. Ayarlar sekmesinden menü ve ürün yönetimini gerçekleştirin.
+1. Proje klasörünü `wp-content/plugins/` dizinine yükleyin.
+2. WordPress yönetici paneline giriş yapın.
+3. “Eklentiler” sekmesinden **QR-Menu** eklentisini aktif hale getirin.
+4. Yönetim panelinden ürün ve kategori tanımlamalarını yaparak kullanmaya başlayın.
 
 ---
 
-## 📎 Notlar
+## 📌 Notlar
 
-- Proje geliştirme ortamı: **WordPress 6.x**, **PHP 8.x**
-- Tamamlanmış ve yayına hazır bir projedir.
-- Tasarım sade, kullanıcı odaklı ve mobil uyumludur.
+- Geliştirme ortamı: **WordPress 6.x**, **PHP 8.x**
+- Eklenti mobil uyumlu, sade ve işlevsel arayüze sahiptir.
+- Proje tamamlanmıştır ve dağıtıma hazırdır.
 
 ---
 
 ## 📬 İletişim
 
+Proje hakkında geri bildirim veya destek için bizimle iletişime geçebilirsiniz.
 
-> Bu proje, restoranlar için dijital dönüşüm sürecinde QR destekli modern menü çözümleri sunmak amacıyla geliştirilmiştir.
+> Bu eklenti, restoranlar için dijital dönüşüm sürecinde QR kod destekli modern menü çözümleri sunmak amacıyla geliştirilmiştir.
