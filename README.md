@@ -68,6 +68,8 @@ Demo olarak oluşturulmuş statik bir restoran menüsü görünümü:
 
 Menüdeki ürünler yine kategori yapısına göre organize edilmiştir:
 
+![Statik Menü](Photos/Menu2.png)
+
 ![Kategorili Menü](Photos/plugin2.png)
 
 ---
