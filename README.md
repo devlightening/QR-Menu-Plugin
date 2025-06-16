@@ -23,10 +23,12 @@ Yönetici panelinden kolayca:
 - Ürün adı girilebilir  
 - Açıklama yazılabilir  
 - Fiyat tanımlanabilir  
-- Kategori seçilebilir  
+- Kategori Eklenebilir 
+- Kategori seçilebilir 
+
 - Ürüne görsel eklenebilir
 
-![Admin Panel – Ürün Tanımlama](https://raw.githubusercontent.com/kullaniciadi/projeadi/main/Photos/plugin1.png)
+![Admin Panel – Ürün Tanımlama](Photos/plugin1.png)
 
 ---
 
@@ -34,7 +36,7 @@ Yönetici panelinden kolayca:
 
 Tüm ürünler tek bir ekran üzerinde listelenir. Ürünler burada düzenlenebilir veya silinebilir.
 
-![Ürün Listesi](https://raw.githubusercontent.com/kullaniciadi/projeadi/main/Photos/plugin2.png)
+![Ürün Listesi](Photos/plugin2.png)
 
 ---
 
@@ -42,7 +44,7 @@ Tüm ürünler tek bir ekran üzerinde listelenir. Ürünler burada düzenlenebi
 
 Kategori barı ile ürünler filtrelenebilir, kullanıcıya daha düzenli bir görünüm sunulur.
 
-![Kategori Barı](https://raw.githubusercontent.com/kullaniciadi/projeadi/main/Photos/plugin3.png)
+![Kategori Barı](Photos/plugin3.png)
 
 ---
 
@@ -50,7 +52,7 @@ Kategori barı ile ürünler filtrelenebilir, kullanıcıya daha düzenli bir g�
 
 Yeni kategoriler kolaylıkla tanımlanabilir ve ürünlere atanabilir.
 
-![Kategori Ekleme](https://raw.githubusercontent.com/kullaniciadi/projeadi/main/Photos/plugin4.png)
+![Kategori Ekleme](Photos/plugin4.png)
 
 ---
 
@@ -58,7 +60,7 @@ Yeni kategoriler kolaylıkla tanımlanabilir ve ürünlere atanabilir.
 
 Her oluşturulan menü için otomatik QR kod üretimi yapılır. Bu sayede müşteriler, cep telefonlarıyla menüye hızlıca erişebilir.
 
-![QR Kod Generator](https://raw.githubusercontent.com/kullaniciadi/projeadi/main/Photos/plugin5.png)
+![QR Kod Generator](Photos/plugin5.png)
 
 ---
 
@@ -66,11 +68,12 @@ Her oluşturulan menü için otomatik QR kod üretimi yapılır. Bu sayede müş
 
 Demo olarak hazırlanmış örnek bir restoran menüsü görünümü:
 
-![Statik Menü](https://raw.githubusercontent.com/kullaniciadi/projeadi/main/Photos/Menu1.png)
+![Statik Menü](Photos/Menu1.png)
+
 
 Kategorili menü yapısı:
 
-![Kategorili Menü](https://raw.githubusercontent.com/kullaniciadi/projeadi/main/Photos/Menu2.png)
+![Statik Menü](Photos/Menu2.png)
 
 ---
 
