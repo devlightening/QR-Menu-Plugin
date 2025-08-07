@@ -1,101 +1,114 @@
-# 📱 QR-Menu WordPress Eklentisi
-
-**QR-Menu**, WordPress tabanlı restoranlar için geliştirilmiş, kullanıcı dostu ve dinamik bir dijital menü eklentisidir. Yöneticiler bu eklenti sayesinde ürünleri tanımlayabilir, kategorilere ayırabilir ve her menüye özel QR kod oluşturarak müşterilere hızlı erişim sağlayabilir.
+Tamam, çeviriyi **profesyonel İngilizce** olarak koruyarak her görselin dosya yolunu da açıkça belirtecek şekilde düzenledim:
 
 ---
 
-## 🔧 Kullanılan Teknolojiler
+# 📱 QR-Menu WordPress Plugin
 
-- **PHP** – WordPress eklenti geliştirme
-- **HTML** – Yapısal içerik oluşturma
-- **CSS** – Arayüz tasarımı
-- **JavaScript** *(isteğe bağlı)* – Etkileşimli özellikler
-- **WordPress Plugin API** – Eklenti altyapısı
+**QR-Menu** is a user-friendly and dynamic digital menu plugin developed for WordPress-based restaurants. With this plugin, administrators can define products, categorize them, and generate unique QR codes for each menu, allowing customers to access them quickly.
 
 ---
 
-## 🚀 Temel Özellikler
+## 🔧 Technologies Used
 
-### ✅ Ürün Tanımlama
-
-Yönetici panelinden kolayca:
-
-- Ürün adı girilebilir  
-- Açıklama yazılabilir  
-- Fiyat tanımlanabilir  
-- Kategori Eklenebilir 
-- Kategori seçilebilir 
-
-- Ürüne görsel eklenebilir
-
-![Admin Panel – Ürün Tanımlama](Photos/plugin1.png)
+* **PHP** – WordPress plugin development
+* **HTML** – Creating structural content
+* **CSS** – Interface design
+* **JavaScript** *(optional)* – Interactive features
+* **WordPress Plugin API** – Plugin infrastructure
 
 ---
 
-### 📋 Ürün Listeleme
+## 🚀 Key Features
 
-Tüm ürünler tek bir ekran üzerinde listelenir. Ürünler burada düzenlenebilir veya silinebilir.
+### ✅ Product Definition
 
-![Ürün Listesi](Photos/plugin2.png)
+From the admin panel, you can easily:
 
----
+* Enter product name
+* Add a description
+* Define a price
+* Add a category
+* Select a category
+* Upload a product image
 
-### 🗂️ Kategoriye Göre Filtreleme
-
-Kategori barı ile ürünler filtrelenebilir, kullanıcıya daha düzenli bir görünüm sunulur.
-
-![Kategori Barı](Photos/plugin3.png)
-
----
-
-### ➕ Kategori Ekleme
-
-Yeni kategoriler kolaylıkla tanımlanabilir ve ürünlere atanabilir.
-
-![Kategori Ekleme](Photos/plugin4.png)
+**Image path:** `Photos/plugin1.png`
+![Admin Panel – Product Definition](Photos/plugin1.png)
 
 ---
 
-### 🔄 QR Kod Oluşturma
+### 📋 Product Listing
 
-Her oluşturulan menü için otomatik QR kod üretimi yapılır. Bu sayede müşteriler, cep telefonlarıyla menüye hızlıca erişebilir.
+All products are listed on a single screen, where they can be edited or deleted.
 
-![QR Kod Generator](Photos/plugin5.png)
-
----
-
-### 🍽️ Statik Menü Örneği
-
-Demo olarak hazırlanmış örnek bir restoran menüsü görünümü:
-
-![Statik Menü](Photos/Menu1.png)
-
-
-Kategorili menü yapısı:
-
-![Statik Menü](Photos/Menu2.png)
+**Image path:** `Photos/plugin2.png`
+![Product List](Photos/plugin2.png)
 
 ---
 
-## 📦 Kurulum Adımları
+### 🗂️ Category Filtering
 
-1. Proje klasörünü `wp-content/plugins/` dizinine yükleyin.
-2. WordPress yönetici paneline giriş yapın.
-3. “Eklentiler” sekmesinden **QR-Menu** eklentisini aktif hale getirin.
-4. Yönetim panelinden ürün ve kategori tanımlamalarını yaparak kullanmaya başlayın.
+Products can be filtered using the category bar, providing users with a more organized view.
 
----
-
-## 📌 Notlar
-
-- Geliştirme ortamı: **WordPress 6.x**, **PHP 8.x**
-- Eklenti mobil uyumlu, sade ve işlevsel arayüze sahiptir.
-- Proje tamamlanmıştır ve dağıtıma hazırdır.
+**Image path:** `Photos/plugin3.png`
+![Category Bar](Photos/plugin3.png)
 
 ---
 
-## 📬 İletişim
+### ➕ Add Category
 
-Proje hakkında geri bildirim veya destek için bizimle iletişime geçebilirsiniz.
+New categories can be easily created and assigned to products.
 
-> Bu eklenti, restoranlar için dijital dönüşüm sürecinde QR kod destekli modern menü çözümleri sunmak amacıyla geliştirilmiştir.
+**Image path:** `Photos/plugin4.png`
+![Add Category](Photos/plugin4.png)
+
+---
+
+### 🔄 QR Code Generation
+
+An automatic QR code is generated for each menu created. This allows customers to quickly access the menu using their mobile phones.
+
+**Image path:** `Photos/plugin5.png`
+![QR Code Generator](Photos/plugin5.png)
+
+---
+
+### 🍽️ Static Menu Example
+
+A sample restaurant menu prepared as a demo:
+
+**Image path:** `Photos/Menu1.png`
+![Static Menu](Photos/Menu1.png)
+
+Categorized menu layout:
+
+**Image path:** `Photos/Menu2.png`
+![Static Menu](Photos/Menu2.png)
+
+---
+
+## 📦 Installation Steps
+
+1. Upload the project folder to the `wp-content/plugins/` directory.
+2. Log in to the WordPress admin panel.
+3. From the “Plugins” section, activate the **QR-Menu** plugin.
+4. Start adding products and categories from the admin panel.
+
+---
+
+## 📌 Notes
+
+* Development environment: **WordPress 6.x**, **PHP 8.x**
+* The plugin has a mobile-friendly, simple, and functional interface.
+* The project is complete and ready for distribution.
+
+---
+
+## 📬 Contact
+
+You can contact us for feedback or support regarding the project.
+
+> This plugin was developed to provide modern, QR code-supported menu solutions for restaurants as part of their digital transformation process.
+
+---
+
+İstersen ben bunu sana **direkt GitHub’da hazır Markdown formatında**, görsellerin düzgün görüntüleneceği şekilde paketleyebilirim. Böylece README.md’yi kopyalayıp yapıştırman yeterli olur.
