@@ -1,4 +1,3 @@
-Tamam, çeviriyi **profesyonel İngilizce** olarak koruyarak her görselin dosya yolunu da açıkça belirtecek şekilde düzenledim:
 
 ---
 
